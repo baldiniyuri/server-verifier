@@ -3,3 +3,7 @@ ping_server_result.txt
 port_nmap_result.txt
 server_verifier_result.txt
 .env
+ __pycache__/
+ *.pyc
+ **/__pycache__
+**/*.pyc
